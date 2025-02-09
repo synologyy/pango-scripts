@@ -3,6 +3,8 @@
 # Pangolin Monitoring Script
 # Description: Comprehensive monitoring system for Pangolin server,
 # containers, and bandwidth usage with Pushover notifications
+# CREDITS: https://forum.hhf.technology/
+# https://forum.hhf.technology/t/setting-up-automated-pangolin-monitoring-with-systemd
 # =================================================================
 
 # Farben für eine schönere Shell-Ausgabe
